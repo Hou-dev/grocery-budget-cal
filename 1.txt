@@ -1,0 +1,5 @@
+15.00
+Apples, 1.50
+Broccoli, 2.00
+Yogurt, 4.00
+Chocolate, 3.80

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519705708 source:c:\users\javed\documents\codeblocks\hw1revised\hw1.cpp
+	<iostream>
+	<fstream>
+	<string>
+

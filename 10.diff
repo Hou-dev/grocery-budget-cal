@@ -1,0 +1,11 @@
+--- 27168.ans	2018-02-23 11:15:14.793353883 -0600
++++ 10.out	2018-02-23 11:18:42.363465777 -0600
+@@ -1,5 +1,4 @@
+-1Milk, 1.70
+ Chocolate, 3.80
+ 
+-Number of items: 2
+-Cost: 5.50
+\ No newline at end of file
++Number of items: 1
++Cost: 3.80
